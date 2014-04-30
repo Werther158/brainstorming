@@ -1,0 +1,26 @@
+Dopo un intenso pomeriggio di brainstorming, abbiamo creato la prima versione della scaletta e una descrizione generale.
+Sicuramente non è ancora perfetta, con il tempo aggiungeremo/modificheremo delle cose..
+
+
+Descrizione progetto:
+Creare un programma che permetta tramite gui di prendere un file sorgente e un file dell'output che
+l'utente desidera ottenere. Il programma utilizzando uno dei compilatori presenti nel sistema prova
+a compilare il sorgente tenendo conto della dimensione del programma in esecuzione, di un tempo massimo
+(entrambi inseriti dall'utente) e confrontando l'output generato con il file scelto precedentemente 
+dall'utente.
+Opzionalmente l'utente deve essere in grado di selezionare un file contenente l'input desiderato.
+Il programma dopo la verifica restituirà un messaggio positivo o negativo.
+-------------------------------------------------------------------------
+DOMENICA 4
+Gui "primitiva" con funzioni base di apertura file.
+
+DOMENICA 11
+Lavorare sul campo "compilatore", e idee per i confronti fra file.
+
+DOMENICA 18
+Il programma deve trovarsi in uno stato avanzato: deve essere in grado di prendere in input il file
+sorgente, il file di output da confrontare con l'output del debug; deve compilare e confrontare con 
+il file utente.
+--------------------------------------------------------------------------
+Successivamente si potranno aggiungere: Supporto per Linux, migliorare l'interfaccia grafica,
+possibilità di scegliere la root del compilatore...
